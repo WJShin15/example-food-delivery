@@ -6,6 +6,7 @@
 이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
 - 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
 
+![image](https://github.com/user-attachments/assets/9dff2e04-aac4-4e7b-b3ef-2cecffec1810)
 
 # Table of contents
 
